@@ -7,4 +7,13 @@ This goals with this project
 - Swagger docs for testing.
 - Docker and Docker compose for seemless production development.
 
+GOAL -> To learn the intricacies of Software developent. Multi threading and what not.
+Things to use,
+- Pydantic
+- uv - package management
+- celery - asynchronously execute work outside the HTTP request-response cycle
+- redis
+- pg-vector
+- Docker orchestration
+- FastAPI
 Inspiration from https://github.com/rawheel/fastapi-boilerplate
