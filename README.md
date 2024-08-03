@@ -6,3 +6,5 @@ This goals with this project
 - Pipelines for Natural Language Generation as well as Computer Vision.
 - Swagger docs for testing.
 - Docker and Docker compose for seemless production development.
+
+Inspiration from https://github.com/rawheel/fastapi-boilerplate
