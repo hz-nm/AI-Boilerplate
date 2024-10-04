@@ -16,4 +16,5 @@ Things to use,
 - pg-vector
 - Docker orchestration
 - FastAPI
+- git
 Inspiration from https://github.com/rawheel/fastapi-boilerplate
