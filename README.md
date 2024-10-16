@@ -18,3 +18,21 @@ Things to use,
 - FastAPI
 - git
 Inspiration from https://github.com/rawheel/fastapi-boilerplate
+
+# Starting.
+
+Using uv to initialize the project
+
+```
+uv run src/app.py
+
+
+adding packages/libraries,
+```
+uv add requests
+```
+
+# Linting
+```
+uvx ruff check
+uvx ruff format
