@@ -25,7 +25,7 @@ Using uv to initialize the project
 
 ```
 uv run src/app.py
-
+```
 
 adding packages/libraries,
 ```
@@ -36,3 +36,4 @@ uv add requests
 ```
 uvx ruff check
 uvx ruff format
+```
