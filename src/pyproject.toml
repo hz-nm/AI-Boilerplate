@@ -1,0 +1,5 @@
+[project]
+name = "src"
+version = "0.1.0"
+description = "To help with adding projects."
+dependencies = []
